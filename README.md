@@ -17,3 +17,10 @@ A clean and responsive Shopping Cart UI built using React.js.   This project sim
 - JavaScript (ES6+)
 - CSS / Tailwind
 
+📚 What I Learned
+State management in React
+Component reusability
+Props handling
+UI design structure
+Real-world cart logic
+
