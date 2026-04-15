@@ -24,3 +24,9 @@ Props handling
 UI design structure
 Real-world cart logic
 
+🎯 Future Improvements
+Add backend integration
+User login system
+Payment gateway UI
+Wishlist feature
+
