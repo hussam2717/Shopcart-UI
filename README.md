@@ -11,3 +11,9 @@ A clean and responsive Shopping Cart UI built using React.js.   This project sim
 - Automatic total price calculation
 - Responsive UI for mobile and desktop
 - Clean and modern design
+
+## 🛠️ Tech Stack
+- React.js
+- JavaScript (ES6+)
+- CSS / Tailwind
+
